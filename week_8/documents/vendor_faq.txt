@@ -1,0 +1,126 @@
+VENDOR FAQ — BuildRight Toys Inc.
+Partner & Supplier Resource Document | Version 2.0 | January 2025
+
+======================================================
+SECTION 1: BECOMING A VENDOR
+======================================================
+
+Q: How do I apply to become a vendor/supplier for BuildRight Toys?
+A: Interested vendors should submit a Vendor Application Form available at
+buildright.com/vendor-portal. Applications require: company registration documents,
+proof of product liability insurance ($2M minimum coverage), product safety certifications
+(ASTM F963, EN71, or equivalent), and three business references. Applications are reviewed
+within 15 business days.
+
+Q: What product categories is BuildRight currently sourcing?
+A: We are actively sourcing in the following categories: construction sets and blocks,
+outdoor and active play equipment, STEM and educational kits, plush and soft toys,
+arts and crafts supplies, and electronic learning toys. We are not currently accepting
+new vendors for board games or puzzles as those categories are at capacity.
+
+Q: Is there a minimum order quantity (MOQ) requirement?
+A: Yes. BuildRight requires a minimum order of 500 units per SKU for initial purchase
+orders. Repeat orders after a 6-month performance review may qualify for reduced MOQ of
+250 units per SKU, subject to category manager approval.
+
+Q: Does BuildRight offer exclusivity agreements?
+A: Exclusivity agreements are available for premium vendor partners who meet our Platinum
+Tier requirements (minimum $500K annual supply value, 98%+ on-time delivery, <0.5% defect
+rate). Exclusivity is granted on a per-category basis for a 12-month renewable term.
+
+======================================================
+SECTION 2: PRICING AND PAYMENT TERMS
+======================================================
+
+Q: What are BuildRight's standard payment terms?
+A: Standard payment terms are Net-45 from the date of invoice. Vendors who pass a
+creditworthiness review may qualify for Net-60 terms. Early payment discounts of 2% are
+available for invoices paid within 10 days (2/10 Net-45).
+
+Q: How does BuildRight handle price increases from vendors?
+A: Vendors must provide a minimum of 90 days written notice before any price increase.
+Price increases greater than 5% must be approved by our procurement committee and may
+trigger a re-bidding process. Emergency cost increases due to raw material shortages
+are evaluated on a case-by-case basis.
+
+Q: What currency does BuildRight process vendor invoices in?
+A: All domestic vendor invoices must be in USD. International vendors may invoice in
+their local currency, but payment will be made in USD at the exchange rate on the
+invoice date. BuildRight does not hedge currency for individual vendor transactions.
+
+Q: How do vendors submit invoices?
+A: All invoices must be submitted through the Vendor Portal at buildright.com/vendor-portal.
+Paper invoices are no longer accepted as of January 2024. Invoices must include: purchase
+order number, itemized line items with SKU codes, unit prices, and applicable taxes.
+
+======================================================
+SECTION 3: SHIPPING AND LOGISTICS
+======================================================
+
+Q: What are BuildRight's receiving warehouse locations?
+A: Our primary distribution centers are located in Columbus, OH (East Coast fulfillment),
+Dallas, TX (South and Central), and Reno, NV (West Coast fulfillment). All shipments must
+be directed to the DC specified on the purchase order. Mis-shipped goods may be refused
+or subject to a $250 rerouting fee.
+
+Q: What packaging standards must vendors comply with?
+A: All products must comply with BuildRight Packaging Standard BRS-2024, available on the
+Vendor Portal. Key requirements: master cartons must be double-walled corrugated, weight
+per carton must not exceed 30 kg, barcodes must be GS1-compliant, and all cartons must
+include country of origin labeling. Non-compliant packaging may result in a chargeback
+of $150 per pallet.
+
+Q: What lead times does BuildRight expect?
+A: Standard lead times for domestic vendors: 10–15 business days from PO confirmation.
+International vendors: 45–60 days including customs clearance. Rush orders (less than
+7 business days) incur a 15% surcharge and are subject to capacity availability.
+
+Q: Who arranges freight for inbound shipments?
+A: BuildRight uses a Vendor Collect freight program for domestic suppliers. Our logistics
+team will schedule pickup via our preferred carrier (FedEx Freight or UPS Freight) and
+deduct freight costs from vendor payment per the agreed freight allowance. International
+vendors are responsible for arranging FOB shipments to the designated port of entry.
+
+======================================================
+SECTION 4: QUALITY AND COMPLIANCE
+======================================================
+
+Q: What quality certifications do vendors need?
+A: All toy vendors must hold current ASTM F963 (US) and EN71 (EU if applicable)
+certifications. Electronic toys additionally require FCC Part 15 and CE marking. Chemical
+kits require CPSC compliance documentation. Certifications must be renewed annually and
+uploaded to the Vendor Portal.
+
+Q: What happens if a shipment fails BuildRight's quality inspection?
+A: BuildRight inspects 10% of units in each shipment using AQL Level II sampling.
+If the defect rate exceeds 1.5%, the entire shipment is rejected and returned at the
+vendor's expense. The vendor must provide a corrective action plan (CAP) within 10
+business days. Three rejections within a 12-month period will result in vendor
+suspension pending a performance review.
+
+Q: Does BuildRight conduct factory audits?
+A: Yes. All new vendors undergo an initial factory audit conducted by a BuildRight-approved
+third-party auditor (cost borne by the vendor, approximately $800–$1,500 depending on
+location). Ongoing audits occur annually for Tier 1 suppliers and bi-annually for Tier 2.
+Unannounced spot audits may be conducted if quality or compliance concerns arise.
+
+======================================================
+SECTION 5: VENDOR PERFORMANCE & PARTNERSHIP
+======================================================
+
+Q: How is vendor performance measured?
+A: Vendors are scored quarterly on four KPIs: On-Time Delivery Rate (target: 95%+),
+Order Fill Rate (target: 98%+), Defect Rate (target: <1%), and Invoice Accuracy (target:
+99%+). Scores are shared via the Vendor Portal dashboard. Vendors falling below targets
+for two consecutive quarters enter a Performance Improvement Plan (PIP).
+
+Q: How do I escalate a dispute about a deduction or chargeback?
+A: Submit a dispute via the Vendor Portal within 30 days of the deduction appearing on
+your remittance. Include supporting documentation (BOL, photos, emails). Disputes are
+reviewed by our Vendor Relations team within 15 business days. Unresolved disputes may
+be escalated to the VP of Procurement for final review.
+
+Q: Who is my main contact at BuildRight?
+A: Each vendor is assigned a dedicated Vendor Relations Manager (VRM). Your VRM's
+contact information is listed in the Vendor Portal under "My Account." For general
+inquiries, contact vendor.relations@buildright.com.
